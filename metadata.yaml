@@ -1,0 +1,52 @@
+_repo: The-Book-of-Masks_46247
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lewis, Jack
+    alias: Lewis, Jacob Howard
+    birthdate: 1893
+    gutenberg_agent_id: '43679'
+    url: http://www.gutenberg.org/2009/agents/43679
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Coffe, M.
+    - De Gourmont, Remy
+    - Drexelius, J.
+    - L'Ymagier
+    - Gourmont, Rémy de
+    - Gourmont, Remye
+    - Gourmont, Remi de
+    - Le Danois, N.
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+description: ''
+gutenberg_issued: '2014-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46247'
+  lccn: '22003136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Symbolism in literature'
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+tableOfContents: Maeterlinck -- Verhaeren -- De Régnier -- Vielé-Griffin -- Mallarmé
+  -- Samain -- Quillard -- Herold -- Retté -- De l'Isle-Adam -- Tailhadé -- Renard
+  -- Dumur -- Eekhoud -- Adam -- Lautréamont -- Corbière -- Rimbaud -- Poictevin --
+  Gide -- Louys -- Rachilde -- Huysmans -- Laforgue -- Moréas -- Merrill -- Saint-Pol-Roux
+  -- De Montesquiou -- Kahn -- Verlaine -- Translations from the text.
+title: The Book of Masks
+url: http://www.gutenberg.org/ebooks/46247
