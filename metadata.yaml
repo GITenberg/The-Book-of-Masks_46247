@@ -30,6 +30,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46247#The-Book-of-Masks
 gutenberg_issued: '2014-07-11'
 gutenberg_type: Text
 identifiers:
